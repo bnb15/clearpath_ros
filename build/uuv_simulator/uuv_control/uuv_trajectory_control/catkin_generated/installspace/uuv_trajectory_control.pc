@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/workspace/clearpath_ros/install
+
+Name: uuv_trajectory_control
+Description: Description of uuv_trajectory_control
+Version: 0.6.11
+Cflags: 
+Libs: -L/home/ubuntu/workspace/clearpath_ros/install/lib 
+Requires: 

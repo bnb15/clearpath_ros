@@ -1,0 +1,2 @@
+set(heron_msgs_MESSAGE_FILES "/home/ubuntu/workspace/clearpath_ros/src/heron/heron_msgs/msg/Course.msg;/home/ubuntu/workspace/clearpath_ros/src/heron/heron_msgs/msg/Drive.msg;/home/ubuntu/workspace/clearpath_ros/src/heron/heron_msgs/msg/Helm.msg;/home/ubuntu/workspace/clearpath_ros/src/heron/heron_msgs/msg/Sense.msg;/home/ubuntu/workspace/clearpath_ros/src/heron/heron_msgs/msg/Status.msg")
+set(heron_msgs_SERVICE_FILES "")

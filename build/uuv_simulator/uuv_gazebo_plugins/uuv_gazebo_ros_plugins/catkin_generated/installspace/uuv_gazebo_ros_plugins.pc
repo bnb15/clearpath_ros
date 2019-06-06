@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/workspace/clearpath_ros/install
+
+Name: uuv_gazebo_ros_plugins
+Description: Description of uuv_gazebo_ros_plugins
+Version: 0.6.11
+Cflags: -I/home/ubuntu/workspace/clearpath_ros/install/include
+Libs: -L/home/ubuntu/workspace/clearpath_ros/install/lib -luuv_fin_ros_plugin -luuv_thruster_ros_plugin -luuv_underwater_object_ros_plugin -luuv_joint_state_publisher -luuv_accelerations_test_plugin
+Requires: uuv_gazebo_plugins sensor_msgs geometry_msgs std_msgs uuv_gazebo_ros_plugins_msgs visualization_msgs

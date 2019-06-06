@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/workspace/clearpath_ros/install
+
+Name: pointgrey_camera_driver
+Description: Description of pointgrey_camera_driver
+Version: 0.13.4
+Cflags: -I/home/ubuntu/workspace/clearpath_ros/install/include
+Libs: -L/home/ubuntu/workspace/clearpath_ros/install/lib 
+Requires: image_exposure_msgs nodelet roscpp sensor_msgs wfov_camera_msgs

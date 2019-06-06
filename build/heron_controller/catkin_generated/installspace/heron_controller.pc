@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/workspace/clearpath_ros/install
+
+Name: heron_controller
+Description: Description of heron_controller
+Version: 0.1.0
+Cflags: -I/home/ubuntu/workspace/clearpath_ros/install/include
+Libs: -L/home/ubuntu/workspace/clearpath_ros/install/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/workspace/clearpath_ros/devel
+
+Name: uuv_tutorial_disturbances
+Description: Description of uuv_tutorial_disturbances
+Version: 0.6.11
+Cflags: 
+Libs: -L/home/ubuntu/workspace/clearpath_ros/devel/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/workspace/clearpath_ros/install
+
+Name: heron_description
+Description: Description of heron_description
+Version: 0.3.1
+Cflags: 
+Libs: -L/home/ubuntu/workspace/clearpath_ros/install/lib 
+Requires: 

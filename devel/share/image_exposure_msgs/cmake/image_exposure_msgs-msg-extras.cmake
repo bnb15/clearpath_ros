@@ -1,0 +1,2 @@
+set(image_exposure_msgs_MESSAGE_FILES "/home/ubuntu/workspace/clearpath_ros/src/pointgrey_camera_driver/image_exposure_msgs/msg/ExposureSequence.msg;/home/ubuntu/workspace/clearpath_ros/src/pointgrey_camera_driver/image_exposure_msgs/msg/ImageExposureStatistics.msg;/home/ubuntu/workspace/clearpath_ros/src/pointgrey_camera_driver/image_exposure_msgs/msg/SequenceExposureStatistics.msg")
+set(image_exposure_msgs_SERVICE_FILES "")

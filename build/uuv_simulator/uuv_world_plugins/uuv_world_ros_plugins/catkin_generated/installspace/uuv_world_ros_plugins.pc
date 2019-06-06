@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/workspace/clearpath_ros/install
+
+Name: uuv_world_ros_plugins
+Description: Description of uuv_world_ros_plugins
+Version: 0.6.11
+Cflags: -I/home/ubuntu/workspace/clearpath_ros/install/include
+Libs: -L/home/ubuntu/workspace/clearpath_ros/install/lib -luuv_underwater_current_ros_plugin -luuv_sc_ros_interface_plugin
+Requires: roscpp gazebo_msgs geometry_msgs uuv_world_plugins uuv_world_ros_plugins_msgs gazebo_dev

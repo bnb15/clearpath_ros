@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/workspace/clearpath_ros/install
+
+Name: uuv_world_ros_plugins_msgs
+Description: Description of uuv_world_ros_plugins_msgs
+Version: 0.6.11
+Cflags: -I/home/ubuntu/workspace/clearpath_ros/install/include
+Libs: -L/home/ubuntu/workspace/clearpath_ros/install/lib 
+Requires: std_msgs geometry_msgs message_runtime

@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/workspace/clearpath_ros/install
+
+Name: imu_complementary_filter
+Description: Description of imu_complementary_filter
+Version: 1.2.1
+Cflags: -I/home/ubuntu/workspace/clearpath_ros/install/include
+Libs: -L/home/ubuntu/workspace/clearpath_ros/install/lib -lcomplementary_filter
+Requires: message_filters roscpp sensor_msgs std_msgs tf
